@@ -1,10 +1,11 @@
 @charset "utf=8";
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
+
 body {
     background-color: #2e2e2e;
     color: #f0bbc9;
     text-align: center;
     font-family: 'M PLUS 1p', sans-serif;
-    @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
   }
   a {
     color: #a5c8e8;
