@@ -11,6 +11,6 @@ body {
     color: #a5c8e8;
   }
   image {
-    width: 160px;
-    height: 600px;
+    width: 100%;
+    max-width: 400px;
   }
