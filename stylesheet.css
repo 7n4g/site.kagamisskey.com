@@ -10,6 +10,7 @@ body {
   a {
     color: #a5c8e8;
   }
-  img {
-    width: 0px;
-    }
+  image {
+    width: 160px;
+    height: 600px;
+  }
