@@ -10,7 +10,7 @@ body {
   a {
     color: #a5c8e8;
   }
-  image {
+  .image {
     width: 100%;
     max-width: 400px;
   }
