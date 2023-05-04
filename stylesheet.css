@@ -3,4 +3,8 @@ body {
     background-color: #2e2e2e;
     color: #f0bbc9;
     font-family: "01FLOPDESIGN";
+    text-align: center;
+  }
+  a {
+    color: #a5c8e8;
   }
